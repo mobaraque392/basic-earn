@@ -1,0 +1,8 @@
+@media (min-width: 769px) and (max-width:1000px) {header
+   
+    .col-t-12 {width: 50%;float: left;}
+    .hero-part{width: 48%; float: left;
+        height: 165px;}
+    .logo{width: 100%;float: left;}
+    .menu{font-size: 14px;}
+    }
